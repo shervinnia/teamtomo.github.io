@@ -13,6 +13,7 @@ parts:
   chapters:
   - file: theory/cryo-et/index
     sections:
+    - file: theory/cryo-et/filtered-backprojection
     - file: theory/cryo-et/tilt-schemes
     - file: theory/cryo-et/tilt-series-alignment
   - file: theory/subtomogram-averaging/index
