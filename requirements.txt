@@ -5,3 +5,4 @@ sphinx_inline_tabs>=2022.1.2b11
 sphinx-design>=0.1.0
 PyQt5>=5.15
 ipython>=7.28.0
+jsonschema[format-nongpl]==3.3.0
